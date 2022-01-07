@@ -3,6 +3,18 @@ html, body{
 	color: #dfdfdf;
 	background-color: #063647; 
 }
+.container-skills
+{
+	font-size: 20px;
+}
+
+
+
+.skills-image
+{
+	height: 500px;
+	width: 500px;
+}
 
 a {
   color: #00d1b2;
@@ -43,8 +55,8 @@ a.nav-item:hover {
 }
 
 .avatar{
-	height:200px;
-	border-radius: 50%;
+	height:500px;
+	
 }
 
 .intro-description{
